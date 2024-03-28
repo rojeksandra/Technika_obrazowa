@@ -1,15 +1,17 @@
-# Technika_obrazowa
+# Technika obrazowa
 
-W repozytorium znajdują się mini projekty realizowane w ramach przedmiotu "Technika Obrazowa" na trzecim roku studiów. Wszystkie projekty wykorzystują środowisko Jupyter Notebook:
+W repozytorium znajdują się mini projekty realizowane w ramach przedmiotu "Technika Obrazowa" na trzecim roku studiów. Wszystkie projekty wykorzystują środowisko Jupyter Notebook.
 
--Jupyter Notebook: Interaktywne środowisko programistyczne umożliwiające tworzenie i dzielenie dokumentów zawierających kod, równania, wizualizacje i tekst.
+## Narzędzia
 
--Python: Język programowania wykorzystywany do implementacji algorytmów analizy obrazów.
+- **Jupyter Notebook**: Interaktywne środowisko programistyczne umożliwiające tworzenie i dzielenie dokumentów zawierających kod, równania, wizualizacje i tekst.
 
-Biblioteki Pythona:
+- **Python**: Język programowania wykorzystywany do implementacji algorytmów analizy obrazów.
 
--NumPy: Biblioteka do obliczeń numerycznych, często używana do manipulacji danymi w formie macierzy.
+## Biblioteki Pythona
 
--Pandas: Biblioteka do manipulacji i analizy danych, szczególnie użyteczna w przypadku danych tabelarycznych.
+- **NumPy**: Biblioteka do obliczeń numerycznych, często używana do manipulacji danymi w formie macierzy.
 
--Matplotlib: Biblioteka służąca do tworzenia wizualizacji danych, często wykorzystywana do generowania wykresów i grafik.
+- **Pandas**: Biblioteka do manipulacji i analizy danych, szczególnie użyteczna w przypadku danych tabelarycznych.
+
+- **Matplotlib**: Biblioteka służąca do tworzenia wizualizacji danych, często wykorzystywana do generowania wykresów i grafik.
